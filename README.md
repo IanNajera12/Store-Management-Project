@@ -17,7 +17,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](\Copy of UML Diagram.png)
+![image](https://github.com/user-attachments/assets/d09a24f3-0865-4797-93df-1af0030f6090)
+
 
 ## Description
 The store which I decided to make was an Apple Store. This was because not to long before the assignment was given to us I went to the mall and saw an Apple Store which jogged my memory of all the fond memories I had made there years prior. My project consisted of a superclass of Apple and two subclassed named Phone and Airpods. The superclass contained three instance variables which also applied to the subclasses which had their own unique instance variable. Additionally each class had accessor, mutator, and toString methods to be called in the tester class called StoreRunner. I decided to utilize user input in my project which led me to use the scanner class. The user simply had to answer questions with a yes or no answer or to pick a choice out of two options. My goal was to get the user to undergo a series of questions to determine the product best suited for their liking. Once I determined this through several if-else scenarios the program would alter the value of the instance variables in both classes and print out a reciept. 
